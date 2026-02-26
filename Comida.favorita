@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Minha comida favorita</title>
+</head> 
+<body> 
+ <h1>pizza</h1> 
+ <h2>gostosa e variável</h2>
+ <p>Escreva aqui um parágrafo falando sobre o animal escolhido. 
+ Conte como ele é, o que ele gosta de fazer, qual é o nome dele, etc. 
+ </p> 
+ <img src="coloque_aqui_o_link_da_imagem.jpg" alt="Imagem do animal"> 
+<body> 
+</html>
